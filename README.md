@@ -1,5 +1,7 @@
 # Random-Number-Assignment-and-Addition-Program-Codes
 
+C# Programming Language
+
 When the fill each list button is pressed, 10 random numbers are generated and if it is kept pressed, the number increases as a multiple of 10.
 
 If there is a number to be added to the list, that number is written and the add to list button is pressed.
